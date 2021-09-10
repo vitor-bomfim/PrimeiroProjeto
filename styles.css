@@ -1,0 +1,11 @@
+.facebook button{
+    background-color: black;
+    color: rgb(143, 40, 146);
+    font-size: 80%;
+    border-color:blueviolet;
+    opacity: 30%;
+    column-fill: auto;
+    transform: translateX(100%);
+    
+
+}
